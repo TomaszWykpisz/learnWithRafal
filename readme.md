@@ -1,1 +1,2 @@
 Nowy readme
+nowa linia
