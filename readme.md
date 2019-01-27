@@ -1,2 +1,2 @@
 Nowy readme
-nowa linia Rafała
+nowa linia Rafała i Tomka
